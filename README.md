@@ -10,5 +10,7 @@ For the .pcap files, all tests were done with all data collection settings opted
 - AI recommendation: content recommendation and network-based recommendation
 
 In addition to the Pi-hole blocklist file found here, these blocklists were also used: 
+
 https://github.com/TheShawnMiranda/LG-TV-Ad-Block
+
 https://github.com/Perflyst/PiHoleBlocklist/
