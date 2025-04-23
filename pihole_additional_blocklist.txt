@@ -1,0 +1,9 @@
+eu-acr23.alphonso.tv
+eu-acr97.alphonso.tv
+eu-acr125.alphonso.tv
+gb.rdx2.lgtvsdp.com
+gb.lgtvsdp.com
+gb.ad.lgsmartad.com
+#gb.info.lgsmartad.com #sometimes breaks the youtube app
+unagi-eu.amazon.com
+eic.recommend.lgtvcommon.com
